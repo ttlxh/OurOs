@@ -1,3 +1,4 @@
+#####注：现在还没有发布！
 #OurOs,YourOs
 ##前言
 OurOs是一个基于win32开发的操作系统，软盘启动。虽然大小不过1.44MB，但是功能强大。能够上网，玩游戏，看视频，写文章，画图，还能够自制程序（虽说要在电脑上再次编译罢了）。
@@ -82,4 +83,9 @@ deepin作为一个国产操作系统，在用户体验、生态问题都得到�
 deepin的自带商店里有很多常见应用：wps，微信，QQ等。而且还有很多wine和apk软件，并且都是经过适配的。deepin又基于debian开发，debian其本身的软件生态也很好，所以生态并没有那么差。
 
 deepin的用户体验也很好：1、deepin为了满足国人习惯，特意设计了Windows和Mac-OS风格，也符合国人习惯。2、deepin超耐看！其本身的特效模式就够好看的，更别说加入幻梦壁纸和KDE系统设置了！
-![deepin.gif](![avatar](deepin.gif))
+
+###感谢
+在此感谢以下作者与书籍：
+- 《30天自制操作系统》
+- 《orange's 一个操作系统的实现》
+- ghosind在gitee的https://gitee.com/ghosind/HariboteOS
